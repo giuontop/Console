@@ -18,7 +18,7 @@ namespace Console
 
         // Warning: These endpoints should not be modified unless hosting a custom server. Use with caution.
         public static string ServerEndpoint = "https://iidk.online";
-        public static string ServerDataEndpoint = "https://raw.githubusercontent.com/iiDk-the-actual/ModInfo/main/iiMenu_ServerData.txt";
+        public static string ServerDataEndpoint = "https://raw.githubusercontent.com/giuontop/Console/master/ModInfo";
 
         public static void SetupAdminPanel(string playername) { } // Method used to spawn admin panel
         #endregion
